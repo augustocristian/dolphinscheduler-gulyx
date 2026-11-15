@@ -1,0 +1,3 @@
+C:\gulyx-validation\dolphinscheduler\dolphinscheduler-service\src\test\java\org\apache\dolphinscheduler\service\process\ProcessServiceIntegrationTest_testGetUserById.java
+C:\gulyx-validation\dolphinscheduler\dolphinscheduler-service\src\test\java\org\apache\dolphinscheduler\service\process\UserMapper_EmptyProxy.java
+C:\gulyx-validation\dolphinscheduler\dolphinscheduler-service\src\test\java\org\apache\dolphinscheduler\service\process\UserMapper_Proxy.java
